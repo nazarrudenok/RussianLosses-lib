@@ -1,1 +1,0 @@
-Documentation at the link - https://russian-losses.netlify.app/
